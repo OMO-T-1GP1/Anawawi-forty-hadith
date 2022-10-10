@@ -1,0 +1,43 @@
+p{
+    font-size:22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section{
+    margin-left:200px;
+    background-color: white;
+    width: 65%;
+    /* height: 90vh; */
+    align-items: center;
+    justify-items: center;
+    border-radius:20px;
+    padding:15px;
+    margin-top: 30px;
+}
+body{
+    color: teal;
+    background-image: url(https://images.unsplash.com/photo-1609665662783-ac637fd38733?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
+    background-repeat:repeat;
+    background-size: contain;
+}
+a{
+    display: inline-block;
+    margin-left:30px;
+    padding-top: 10px;
+    list-style-type: none;
+    color: darkblue;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: rgb(231, 137, 156);
+    background-color: rgb(7, 50, 65);
+    height:40px;
+}
+ul{
+    background-color: rgb(50, 206, 120);
+    height: 50px;
+}
